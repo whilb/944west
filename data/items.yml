@@ -25,3 +25,8 @@ items:
     content : |
       <a href="https://www.facebook.com/groups/norcal928/">Facebook group</a> responsible for organizing the Sharks in the Park event held in Berkeley.
     style : "solid style2 major fa-shark"
+
+  - name: "New England 944"
+    content: |
+      Are you up in the New England Area? Check out New England 944
+    style : "solid style2 major fa-shark"
