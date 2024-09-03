@@ -1,0 +1,13 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-center fullscreen onload-content-fade-right"
+title : "944West"
+logo: "images/944west-plain.png"
+subtitle: |
+  West Coast Transaxle Porsche Enthusiasts
+content : |
+
+button:
+  label : "944West 2025"
+  link : "#first"
+image : "images/casper-alexN-1.jpg"
+

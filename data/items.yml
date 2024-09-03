@@ -1,0 +1,27 @@
+title : "Community"
+content: |
+  This is an <strong>Items</strong> element, and it's basically just a grid for organizing items of various types. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-items">details</a>).
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "NorCal Porsche 944"
+    content : |
+      <a href="https://www.facebook.com/groups/771341259725507/">Facebook group</a> that organizes monthly drives on the first Sunday of the month in the greater SF Bay Area.
+    style : "style2 major fa-car"
+
+  # feature item loop
+  - name : "944Driver"
+    content : |
+      944 enthusiasts and community based in San Diego. Check them out on <a href="https://instagram.com/944driver">Instagram!</a>
+    style : "solid style2 major fa-save"
+    
+  # feature item loop
+  - name : "944Fest"
+    content : |
+      The <a href="https://www.944fest.com/">largest annual gathering</a> of Porsche 944s in the universe at Nelson Ledges Race Course in Ohio.
+    style : "solid style2 major fa-chart-bar"
+
+  - name : "NorCal 928"
+    content : |
+      <a href="https://www.facebook.com/groups/norcal928/">Facebook group</a> responsible for organizing the Sharks in the Park event held in Berkeley.
+    style : "solid style2 major fa-shark"

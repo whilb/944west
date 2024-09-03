@@ -1,0 +1,34 @@
+title: "Gallery"
+style: "style2 medium lightbox"
+content: |
+  This is a <strong>Gallery</strong> element. It can behave as a lightbox (when given the <code>lightbox</code> class), and you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-gallery">details</a>).
+pictures:
+  - title: "968 CS"
+    content: "Air|Water 2024"
+    image: "images/gallery/fulls/968-2.jpg"
+    thumb: "images/gallery/thumbs/968-2.jpg"
+
+  - title: "928 Safari"
+    content: "928 Safari at Sharks in the Park 2024"
+    image: "images/gallery/fulls/928-2.jpg"
+    thumb: "images/gallery/thumbs/928-2.jpg"
+    button: "Details"
+
+  - title: "NorCal Porsche 944"
+    content: "August group Drive in the Marin Headlands"
+    image: "images/gallery/fulls/battery-1.jpg"
+    thumb: "images/gallery/thumbs/battery-1.jpg"
+    button: "Details"
+
+  - title: "NorCal Porsche 944"
+    content: "Monthly group drive to Mt. Umunhum"
+    image: "images/gallery/fulls/umunhum-2.jpg"
+    thumb: "images/gallery/thumbs/umunhum-2.jpg"
+    button: "Details"
+
+  - title: "NorCal Porsche 944"
+    content: "August group drive to the Marin Headlands"
+    image: "images/gallery/fulls/battery-2.jpg"
+    thumb: "images/gallery/thumbs/battery-2.jpg"
+    button: "Details"
+    
